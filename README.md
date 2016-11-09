@@ -4,6 +4,7 @@ Ensimmäinen julkinen moduulini
 Tämänkertainen tehtävänanto kuului seuraavasti:
 
 h5. Tee moduli git-varastoon ja kirjoita raportti sinne MarkDownilla.
+Lähde: http://terokarvinen.com/2016/aikataulu-palvelinten-hallinta-ict4tn022-1-5-op-uusi-ops-loppusyksy-2016#comment-21961
 
 Ryhdyin tekemään tehtävää opettajan antaman ohjeen (http://terokarvinen.com/2016/publish-your-project-with-github) mukaisesti.
 
